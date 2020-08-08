@@ -45,7 +45,7 @@ export const visibleStyle =
 export const hiddenStyle =
   "position:fixed;height:100%;width:100%;top:-10240px;left:0;z-index:99990;background:white;";
 
-export const queryStr = "embed=1&ui=atlas&spin=1&proto=json&lang=zh";
+export const queryStr = "embed=1&ui=atlas&spin=1&proto=json&lang=en";
 
 export class ItvCheck {
   savingSto = null;
